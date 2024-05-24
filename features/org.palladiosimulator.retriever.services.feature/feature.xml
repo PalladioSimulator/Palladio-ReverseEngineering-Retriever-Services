@@ -8,6 +8,10 @@
       license-feature-version="1.0.0">
 
    <requires>
+      <import plugin="org.eclipse.core.resources"/>
+      <import plugin="org.palladiosimulator.pcm"/>
+      <import plugin="de.uka.ipd.sdq.workflow"/>
+      <import plugin="org.eclipse.equinox.app"/>
    </requires>
 
    <plugin
